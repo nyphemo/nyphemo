@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nyphemo
 - 👀 I’m interested in computers, information Technology, security and data
-- 🌱 I’m currently learning Data Analytics and tools so related
+- 🌱 I’m currently upskilling to Cloud Analytics and Cybersecurity
 - 💞️ I’m looking to collaborate on data projects, security and infrastructure(hardware) projects
 - 📫 How to reach me send me a message here
 
